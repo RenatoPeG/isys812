@@ -1,0 +1,97 @@
+team,offense,midfield,defense,goalkeeper,continent
+Italy,84.3,82.5,84.5,85.0,Europe
+Wales,70.0,79.8,75.2,75.0,Europe
+Denmark,77.7,80.5,79.0,84.0,Europe
+Russia,77.7,78.2,77.5,80.0,Europe
+Austria,76.7,82.0,77.5,75.0,Europe
+Netherlands,82.3,84.0,85.2,81.0,Europe
+England,87.7,83.8,84.5,82.0,Europe
+Scotland,73.7,78.0,77.8,74.0,Europe
+Poland,83.3,77.5,77.0,87.0,Europe
+Spain,83.7,85.8,86.8,86.0,Europe
+Hungary,70.3,72.5,73.0,85.0,Europe
+Germany,85.0,86.8,83.5,90.0,Europe
+Turkey,77.0,77.0,77.5,77.0,Europe
+Ukraine,77.0,79.8,76.0,76.0,Europe
+Croatia,78.7,84.0,78.8,80.0,Europe
+Sweden,79.3,76.8,76.5,78.0,Europe
+Switzerland,75.0,80.5,78.2,86.0,Europe
+Finland,71.3,72.0,71.2,83.0,Europe
+Portugal,84.3,85.2,83.8,84.0,Europe
+Belgium,86.0,85.2,81.0,89.0,Europe
+France,86.7,87.0,85.5,87.0,Europe
+Czech Republic,75.3,77.2,78.5,82.0,Europe
+North Macedonia,72.7,75.0,67.8,71.0,Europe
+Slovakia,67.7,77.8,77.8,83.0,Europe
+Brazil,87.3,86.0,84.8,90.0,South America
+Colombia,81.3,79.5,79.8,79.0,South America
+Argentina,90.0,82.5,80.0,82.0,South America
+Paraguay,74.7,77.5,74.8,72.0,South America
+Chile,75.3,81.0,76.0,77.0,South America
+Venezuela,76.7,75.2,73.8,75.0,South America
+Uruguay,82.3,81.0,82.5,82.0,South America
+Ecuador,78.0,75.5,76.8,74.0,South America
+Bolivia,66.7,69.5,69.2,69.0,South America
+Peru,72.0,75.2,72.2,73.0,South America
+Mexico,83.7,78.2,76.8,79.0,North America
+El Salvador,,,,,North America
+USA,76.7,75.2,75.5,76.0,North America
+Jamaica,71.0,69.0,71.5,75.0,North America
+Qatar,,,,,North America
+Honduras,72.0,,68.8,,North America
+Trinidad and Tobago,,,,52.0,North America
+Guatemala,,,,,North America
+Haiti,,64.5,,,North America
+Suriname,,,,,North America
+Grenada,,,,,North America
+Panama,,66.0,68.0,76.0,North America
+Costa Rica,68.7,68.5,71.0,87.0,North America
+Canada,70.7,74.2,71.2,75.0,North America
+Cameroon,77.7,75.0,76.8,67.0,Africa
+Ethiopia,,,,,Africa
+Senegal,80.7,79.0,79.0,83.0,Africa
+Guinea,73.3,75.0,70.5,69.0,Africa
+Morocco,81.7,76.2,81.2,82.0,Africa
+Comoros,,68.0,,,Africa
+Nigeria,79.0,78.5,74.5,74.0,Africa
+Sudan,62.3,,,,Africa
+Algeria,81.0,78.0,78.0,78.0,Africa
+Equatorial Guinea,,,,,Africa
+Tunisia,72.3,74.0,70.8,,Africa
+Mauritania,,,,,Africa
+Cabo Verde,76.3,69.8,69.5,62.0,Africa
+Malawi,,,,,Africa
+Gabon,,74.0,68.8,,Africa
+Guinea-Bissau,69.0,72.5,65.5,,Africa
+Côte d'Ivoire,79.3,80.0,77.5,63.0,Africa
+Gambia,73.0,66.8,68.2,,Africa
+Burkina Faso,71.7,67.0,69.5,73.0,Africa
+Zimbabwe,72.3,,65.0,,Africa
+Ghana,76.0,78.2,75.5,74.0,Africa
+Egypt,79.3,70.8,,,Africa
+Sierra Leone,69.0,,,,Africa
+Mali,74.0,77.0,74.5,62.0,Africa
+United Arab Emirates,,,,,Asia
+Thailand,,,,,Asia
+Australia,69.7,75.8,73.2,78.0,Asia
+Syria,,69.2,,,Asia
+China PR,72.3,71.5,70.2,72.0,Asia
+Korea Republic,74.3,77.8,71.8,74.0,Asia
+IR Iran,73.3,71.0,69.0,72.0,Asia
+Iraq,,65.2,,,Asia
+Saudi Arabia,68.7,73.0,72.0,70.0,Asia
+Qatar,,,,,Asia
+Japan,76.3,79.5,76.0,72.0,Asia
+Uzbekistan,,,,,Asia
+Bahrain,,,,,Asia
+Jordan,,,,,Asia
+Palestine,,,,,Asia
+Philippines,,,,72.0,Asia
+Kyrgyz Republic,,,,,Asia
+Vietnam,,,,,Asia
+Yemen,,,,,Asia
+Lebanon,,,,,Asia
+Korea DPR,68.0,,,,Asia
+Oman,,,,72.0,Asia
+Turkmenistan,,,,,Asia
+India,63.7,60.0,62.0,63.0,Asia
